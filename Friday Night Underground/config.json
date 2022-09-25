@@ -1,0 +1,33 @@
+{
+	"titleBarName": "Friday Night Funkin' - Mod Name",
+	"intro": {
+		"authors": [
+			"theJoeru",
+			"trupera",
+			"jayzoxz",
+			"tomi"
+		],
+		"gameName": [
+			"friday",
+			"night",
+			"underground"
+		],
+		"newgrounds": "the underground",
+		"bpm": 102,
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"present": "present"
+	},
+	"skinnableBFs": [],
+	"skinnableGFs": [],
+	"GFskins": [],
+	"keyNumbers": [
+		4
+	],
+	"BFskins": [],
+	"name": "Underground Mod",
+	"locked": false,
+	"description": "A mod for me and my friends :)"
+}
