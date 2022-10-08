@@ -3,12 +3,24 @@
 		{
 			"bpm": 125,
 			"difficulties": [
-				"Easy","Normal","Hard"
+				"Standard"
 			],
 			"displayName": "Retrospector",
 			"char": "bf",
 			"name": "retrospector",
 			"color": "#F59705"
+		},
+
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Standard", "Easy"
+			],
+			"displayName": "PEW PEW",
+			"char": "bf",
+			"name": "pew pew",
+			"color": "#F59705"
 		}
+
 	]
 }
