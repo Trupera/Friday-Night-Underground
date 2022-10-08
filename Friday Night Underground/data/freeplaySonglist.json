@@ -1,1 +1,14 @@
-{"songs":[]}
+{
+	"songs": [
+		{
+			"bpm": 125,
+			"difficulties": [
+				"Easy","Normal","Hard"
+			],
+			"displayName": "Retrospector",
+			"char": "bf",
+			"name": "retrospector",
+			"color": "#F59705"
+		}
+	]
+}
