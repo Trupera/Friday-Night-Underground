@@ -5,6 +5,13 @@
 			"difficulties": [],
 			"end_cutscene": null,
 			"cutscene": null,
+			"name": "pew pew"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": [],
+			"scripts": [],
 			"name": "retrospector"
 		}
 	]
