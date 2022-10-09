@@ -8,10 +8,10 @@
 			"name": "pew pew"
 		},
 		{
+			"scripts": [],
+			"difficulties": [],
 			"end_cutscene": null,
 			"cutscene": null,
-			"difficulties": [],
-			"scripts": [],
 			"name": "retrospector"
 		}
 	]

@@ -3,31 +3,23 @@ enableRating = true;
 // enableMiss(true);
 
 function create() {
-    note.frames = Paths.getSparrowAtlas("NOTE_assets_blammed_colored");
+    note.frames = Paths.getSparrowAtlas("DANGER_NOTE");
 
     switch(note.noteData % PlayState.song.keyNumber) {
         case 0:
-            note.animation.addByPrefix('scroll', "purple0");
-            note.animation.addByPrefix('holdend', "pruple end hold");
-            note.animation.addByPrefix('holdpiece', "purple hold piece");
+            note.animation.addByPrefix('scroll', "purple0000");
         case 1:
-            note.animation.addByPrefix('scroll', "blue0");
-            note.animation.addByPrefix('holdend', "blue hold end");
-            note.animation.addByPrefix('holdpiece', "blue hold piece");
+            note.animation.addByPrefix('scroll', "blue0000");
         case 2:
-            note.animation.addByPrefix('scroll', "green0");
-            note.animation.addByPrefix('holdend', "green hold end");
-            note.animation.addByPrefix('holdpiece', "green hold piece");
+            note.animation.addByPrefix('scroll', "green0000");
         case 3:
-            note.animation.addByPrefix('scroll', "red0");
-            note.animation.addByPrefix('holdend', "red hold end");
-            note.animation.addByPrefix('holdpiece', "red hold piece");
+            note.animation.addByPrefix('scroll', "red0000");
     }
 
     note.setGraphicSize(Std.int(note.width * 0.7));
     note.updateHitbox();
     note.antialiasing = true;
-    note.splashColor = 0xFF000000;
+    note.splashColor = 0xF4EE02;
 
     note.animation.play("scroll");
     if (note.isSustainNote) {
@@ -39,5 +31,6 @@ function create() {
 }
 
 function onMiss(note){
+    FlxG.sound.play(Paths.sound("zap"));
     PlayState.health -= 0.5;
 }
