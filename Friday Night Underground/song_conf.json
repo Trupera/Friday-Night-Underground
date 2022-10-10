@@ -5,14 +5,16 @@
 			"difficulties": [],
 			"end_cutscene": null,
 			"cutscene": null,
-			"name": "pew pew"
+			"name": "retrospector"
 		},
 		{
-			"scripts": [],
-			"difficulties": [],
+			"scripts": [
+				"data/PEW PEW/pewScript"
+			],
+			"difficulties": null,
 			"end_cutscene": null,
 			"cutscene": null,
-			"name": "retrospector"
+			"name": "pew pew"
 		}
 	]
 }
