@@ -1,25 +1,25 @@
 {
 	"songs": [
 		{
-			"displayName": "Retrospective",
 			"difficulties": [
 				"Standard"
 			],
+			"displayName": "Retrospector",
 			"char": "bf",
-			"color": "#F59705",
-			"name": "retrospective",
-			"bpm": 125
+			"bpm": 130,
+			"name": "retrospector",
+			"color": "#F59705"
 		},
 		{
-			"displayName": "PEW PEW",
 			"difficulties": [
 				"Standard",
 				"Easy"
 			],
+			"displayName": "PEW PEW",
 			"char": "bf",
-			"color": "#F59705",
+			"bpm": 135,
 			"name": "pew pew",
-			"bpm": 150
+			"color": "#F59705"
 		}
 	]
 }

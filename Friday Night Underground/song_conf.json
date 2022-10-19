@@ -1,13 +1,6 @@
 {
 	"songs": [
 		{
-			"scripts": [],
-			"difficulties": [],
-			"end_cutscene": null,
-			"cutscene": null,
-			"name": "retrospector"
-		},
-		{
 			"scripts": [
 				"Friday Night Underground:/data/PEW PEW/pewScript"
 			],
@@ -15,6 +8,13 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "pew pew"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "retrospector"
 		}
 	]
 }
