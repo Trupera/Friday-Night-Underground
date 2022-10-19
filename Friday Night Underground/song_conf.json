@@ -9,7 +9,7 @@
 		},
 		{
 			"scripts": [
-				"data/PEW PEW/pewScript"
+				"Friday Night Underground:/data/PEW PEW/pewScript"
 			],
 			"difficulties": null,
 			"end_cutscene": null,
