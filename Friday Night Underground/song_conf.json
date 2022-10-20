@@ -15,6 +15,13 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "retrospector"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": [],
+			"scripts": [],
+			"name": "aloha"
 		}
 	]
 }

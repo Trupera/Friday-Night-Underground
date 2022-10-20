@@ -1,25 +1,35 @@
 {
 	"songs": [
 		{
+			"displayName": "Retrospector",
 			"difficulties": [
 				"Standard"
 			],
-			"displayName": "Retrospector",
 			"char": "bf",
-			"bpm": 130,
+			"color": "#F59705",
 			"name": "retrospector",
-			"color": "#F59705"
+			"bpm": 130
 		},
 		{
+			"displayName": "PEW PEW",
 			"difficulties": [
 				"Standard",
 				"Easy"
 			],
-			"displayName": "PEW PEW",
 			"char": "bf",
-			"bpm": 135,
+			"color": "#F59705",
 			"name": "pew pew",
-			"color": "#F59705"
+			"bpm": 135
+		},
+		{
+			"bpm": 91,
+			"difficulties": [
+				"Standard"
+			],
+			"displayName": "Aloha",
+			"char": "bf",
+			"name": "Aloha",
+			"color": "#FE6C6C"
 		}
 	]
 }
