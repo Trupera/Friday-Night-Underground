@@ -1,33 +1,36 @@
 {
-	"titleBarName": "Friday Night Funkin' - Mod Name",
+	"discordRpc": null,
+	"skinnableGFs": [],
+	"downloadLink": null,
+	"locked": false,
+	"BFskins": [],
+	"name": "Underground Mod",
+	"keyNumbers": [
+		4
+	],
+	"description": "A mod for me and my friends :)",
 	"intro": {
+		"newgrounds": "the underground",
 		"authors": [
 			"theJoeru",
 			"trupera",
 			"jayzoxz",
 			"jaidyn"
 		],
+		"assoc": [
+			"In association",
+			"with"
+		],
 		"gameName": [
 			"friday",
 			"night",
 			"underground"
 		],
-		"newgrounds": "the underground",
-		"bpm": 102,
-		"assoc": [
-			"In association",
-			"with"
-		],
-		"present": "present"
+		"present": "present",
+		"bpm": 102
 	},
 	"skinnableBFs": [],
-	"skinnableGFs": [],
-	"GFskins": [],
-	"keyNumbers": [
-		4
-	],
-	"BFskins": [],
-	"name": "Underground Mod",
-	"locked": false,
-	"description": "A mod for me and my friends :)"
+	"titleBarName": "Friday Night Underground",
+	"downloadLinkAlt": null,
+	"GFskins": []
 }

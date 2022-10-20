@@ -17,10 +17,12 @@
 			"name": "retrospector"
 		},
 		{
+			"scripts": [
+				"stages/aloha"
+			],
+			"difficulties": null,
 			"end_cutscene": null,
 			"cutscene": null,
-			"difficulties": [],
-			"scripts": [],
 			"name": "aloha"
 		}
 	]
