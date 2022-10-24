@@ -20,6 +20,7 @@ function create() {
     note.updateHitbox();
     note.antialiasing = true;
     note.splashColor = 0xF4EE02;
+    note.hitOnBotplay = true;
 
     note.animation.play("scroll");
     if (note.isSustainNote) {

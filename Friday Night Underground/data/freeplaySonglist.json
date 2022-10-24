@@ -22,14 +22,34 @@
 			"bpm": 135
 		},
 		{
-			"bpm": 91,
 			"difficulties": [
 				"Standard"
 			],
 			"displayName": "Aloha",
 			"char": "bf",
+			"bpm": 91,
 			"name": "Aloha",
 			"color": "#FE6C6C"
+		},
+		{
+			"displayName": "Iris Road",
+			"difficulties": [
+				"Standard"
+			],
+			"char": "bf",
+			"color": "#FE6C6C",
+			"name": "iris-road",
+			"bpm": 145
+		},
+		{
+			"displayName": "Simulation Swarm",
+			"difficulties": [
+				"Standard"
+			],
+			"char": "bf",
+			"color": "#FE6C6C",
+			"name": "Simulation Swarm",
+			"bpm": 105
 		}
 	]
 }

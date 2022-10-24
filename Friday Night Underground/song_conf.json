@@ -24,6 +24,24 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "aloha"
+		},
+		{
+			"scripts": [
+				"Friday Night Underground:/data/iris-road/irisScript"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "iris-road"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": null,
+			"scripts": [
+				"data/Simulation Swarm/simScript"
+			],
+			"name": "simulation swarm"
 		}
 	]
 }
