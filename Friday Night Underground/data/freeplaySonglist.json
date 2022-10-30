@@ -1,55 +1,56 @@
 {
 	"songs": [
 		{
-			"displayName": "Retrospector",
-			"difficulties": [
-				"Standard"
-			],
-			"char": "bf",
-			"color": "#F59705",
-			"name": "retrospector",
-			"bpm": 130
-		},
-		{
-			"displayName": "PEW PEW",
 			"difficulties": [
 				"Standard",
 				"Easy"
 			],
+			"displayName": "Retrospector",
 			"char": "bf",
-			"color": "#F59705",
+			"bpm": 130,
+			"name": "retrospector",
+			"color": "#F59705"
+		},
+		{
+			"difficulties": [
+				"Standard",
+				"Easy"
+			],
+			"displayName": "PEW PEW",
+			"char": "bf",
+			"bpm": 135,
 			"name": "pew pew",
-			"bpm": 135
+			"color": "#F59705"
+		},
+		{
+			"displayName": "Aloha",
+			"difficulties": [
+				"Standard"
+			],
+			"char": "bf",
+			"color": "#FE6C6C",
+			"name": "Aloha",
+			"bpm": 91
 		},
 		{
 			"difficulties": [
 				"Standard"
 			],
-			"displayName": "Aloha",
+			"displayName": "Iris Road",
 			"char": "bf",
-			"bpm": 91,
-			"name": "Aloha",
+			"bpm": 145,
+			"name": "iris-road",
 			"color": "#FE6C6C"
 		},
 		{
-			"displayName": "Iris Road",
 			"difficulties": [
 				"Standard"
 			],
-			"char": "bf",
-			"color": "#FE6C6C",
-			"name": "iris-road",
-			"bpm": 145
-		},
-		{
 			"displayName": "Simulation Swarm",
-			"difficulties": [
-				"Standard"
-			],
 			"char": "bf",
-			"color": "#FE6C6C",
+			"bpm": 105,
 			"name": "Simulation Swarm",
-			"bpm": 105
+			"color": "#FE6C6C"
 		}
 	]
 }

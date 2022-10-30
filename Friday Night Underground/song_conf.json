@@ -35,12 +35,12 @@
 			"name": "iris-road"
 		},
 		{
-			"end_cutscene": null,
-			"cutscene": null,
-			"difficulties": null,
 			"scripts": [
 				"data/Simulation Swarm/simScript"
 			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
 			"name": "simulation swarm"
 		}
 	]
