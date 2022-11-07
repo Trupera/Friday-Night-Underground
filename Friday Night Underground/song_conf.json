@@ -42,6 +42,13 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "simulation swarm"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": [],
+			"scripts": [],
+			"name": "pink + white"
 		}
 	]
 }

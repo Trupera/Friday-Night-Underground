@@ -51,6 +51,16 @@
 			"bpm": 105,
 			"name": "Simulation Swarm",
 			"color": "#FE6C6C"
+		},
+		{
+			"displayName": "Pink Plus White",
+			"difficulties": [
+				"Standard"
+			],
+			"char": "bf",
+			"color": "#FE6C6C",
+			"name": "pink + white",
+			"bpm": 160
 		}
 	]
 }
