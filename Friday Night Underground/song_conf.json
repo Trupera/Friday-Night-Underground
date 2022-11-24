@@ -56,6 +56,13 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "all i want for christmas is you"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": [],
+			"scripts": [],
+			"name": "sick-hack"
 		}
 	]
 }
