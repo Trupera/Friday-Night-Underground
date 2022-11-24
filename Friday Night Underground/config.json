@@ -1,36 +1,38 @@
 {
-	"discordRpc": null,
 	"skinnableGFs": [],
+	"discordRpc": null,
+	"BFskins": [],
 	"downloadLink": null,
 	"locked": false,
-	"BFskins": [],
-	"name": "Underground Mod",
 	"keyNumbers": [
 		4
 	],
-	"description": "A mod for me and my friends :)",
+	"name": "Underground Mod",
+	"skinnableBFs": [
+		"Amo"
+	],
 	"intro": {
-		"newgrounds": "the underground",
 		"authors": [
 			"theJoeru",
 			"trupera",
 			"jayzoxz",
 			"jaidyn"
 		],
-		"assoc": [
-			"In association",
-			"with"
-		],
+		"newgrounds": "the underground",
 		"gameName": [
 			"friday",
 			"night",
 			"underground"
 		],
-		"present": "present",
-		"bpm": 102
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
 	},
-	"skinnableBFs": [],
+	"description": "A mod for me and my friends :)",
 	"titleBarName": "Friday Night Underground",
-	"downloadLinkAlt": null,
-	"GFskins": []
+	"GFskins": [],
+	"downloadLinkAlt": null
 }

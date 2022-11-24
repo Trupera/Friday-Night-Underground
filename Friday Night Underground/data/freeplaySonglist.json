@@ -1,66 +1,76 @@
 {
 	"songs": [
 		{
-			"difficulties": [
-				"Standard",
-				"Easy"
-			],
 			"displayName": "Retrospector",
-			"char": "bf",
-			"bpm": 130,
-			"name": "retrospector",
-			"color": "#F59705"
-		},
-		{
 			"difficulties": [
 				"Standard",
 				"Easy"
 			],
+			"char": "bf",
+			"color": "#F59705",
+			"name": "retrospector",
+			"bpm": 130
+		},
+		{
 			"displayName": "PEW PEW",
+			"difficulties": [
+				"Standard",
+				"Easy"
+			],
 			"char": "bf",
-			"bpm": 135,
+			"color": "#F59705",
 			"name": "pew pew",
-			"color": "#F59705"
+			"bpm": 135
 		},
 		{
+			"difficulties": [
+				"Standard"
+			],
 			"displayName": "Aloha",
-			"difficulties": [
-				"Standard"
-			],
 			"char": "bf",
-			"color": "#FE6C6C",
+			"bpm": 91,
 			"name": "Aloha",
-			"bpm": 91
+			"color": "#FE6C6C"
 		},
 		{
-			"difficulties": [
-				"Standard"
-			],
 			"displayName": "Iris Road",
-			"char": "bf",
-			"bpm": 145,
-			"name": "iris-road",
-			"color": "#FE6C6C"
-		},
-		{
-			"difficulties": [
-				"Standard"
-			],
-			"displayName": "Simulation Swarm",
-			"char": "bf",
-			"bpm": 105,
-			"name": "Simulation Swarm",
-			"color": "#FE6C6C"
-		},
-		{
-			"displayName": "Pink Plus White",
 			"difficulties": [
 				"Standard"
 			],
 			"char": "bf",
 			"color": "#FE6C6C",
+			"name": "iris-road",
+			"bpm": 145
+		},
+		{
+			"displayName": "Simulation Swarm",
+			"difficulties": [
+				"Standard"
+			],
+			"char": "bf",
+			"color": "#FE6C6C",
+			"name": "Simulation Swarm",
+			"bpm": 105
+		},
+		{
+			"difficulties": [
+				"Standard"
+			],
+			"displayName": "Pink Plus White",
+			"char": "bf",
+			"bpm": 160,
 			"name": "pink + white",
-			"bpm": 160
+			"color": "#FE6C6C"
+		},
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Standard"
+			],
+			"displayName": "All I Want For Christmas Is You",
+			"char": "bf",
+			"name": "all i want for christmas is you",
+			"color": "#D70404"
 		}
 	]
 }
