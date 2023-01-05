@@ -58,10 +58,10 @@
 			"name": "all i want for christmas is you"
 		},
 		{
+			"scripts": [],
+			"difficulties": [],
 			"end_cutscene": null,
 			"cutscene": null,
-			"difficulties": [],
-			"scripts": [],
 			"name": "sick-hack"
 		}
 	]
